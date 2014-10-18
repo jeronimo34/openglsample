@@ -6,7 +6,7 @@ SDL_Surface* g_screen;
 
 const int WIW = 400; //ウィンドウ-幅
 const int WIH = 400; //ウィンドウ-高さ
-int g_a;
+
 static GLfloat arm0[8][3] =
 {
 	{ -5, -8, -5 }, { -5, 8, -5 },
